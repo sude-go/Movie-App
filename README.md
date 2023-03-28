@@ -1,6 +1,6 @@
 # :clapper: Movie App
 
-The movie application I made with the video of the **AsmrProg** youtube channel. I mainly used JavaScript.<br>
+The movie application I made with the video of the **AsmrProg** youtube channel. I mainly used JavaScript.It includes responsive design.<br>
 <a href="https://sude-go.github.io/Movie-App/">Movie App</a>
 
 ## İmages
